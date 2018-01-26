@@ -1,2 +1,2 @@
-# simple-binary-connect
+# Simple Binary Connect
 A bare-bones instructional implementation of BinaryConnect.
