@@ -102,4 +102,6 @@ ENV/
 
 # osX stuff
 *.DS_Store
+*.swp
+./nb-adf_team.ipynb
 
