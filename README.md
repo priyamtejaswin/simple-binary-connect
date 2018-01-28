@@ -1,6 +1,6 @@
 # Simple Binary Connect
 
-*[A bare-bones instructional implementation of BinaryConnect.](https://nbviewer.jupyter.org/github/priyamtejaswin/simple-binary-connect/blob/master/tutorial.ipynb)*
+*[A bare-bones instructional implementation of BinaryConnect in pure Numpy.](https://nbviewer.jupyter.org/github/priyamtejaswin/simple-binary-connect/blob/master/tutorial.ipynb)*
 
 A conversation at work spawned a discussion about the difficulties of successfully deploying Deep Neural Networks on embedded and mobile devices. A [very]rough review revealed three broad approaches:
 - Training shallower/smaller architectures to reduce parameters.
