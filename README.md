@@ -24,7 +24,7 @@ The content in the [tutorial.ipynb notebook](https://nbviewer.jupyter.org/github
 
 ## Does it work?
 
-Well, yes. It does work... in the confines of what I had set out to do (which I explain in the **Objective** section). There are some points which I discuss in the end of the post after testing the binarization which I'm pasting below.
+Well, yes. It does work... in the confines of what I had set out to do (which I explain in the **Objective** section). There are some points which I discuss in the end of the post after testing the binarization which I'm pasting below (***Section 8 and Section 9*** from the tutorial).
 
 ### 8. Testing Binarization
 
@@ -109,7 +109,7 @@ Hooray! It's working!
 
 ### 9. Discussion.
 
-Well. It works. But the paper leaves a lot of two unanswered questions:
+Well. It works. But the paper leaves some unanswered questions:
 
 1. Why weren't the biases binarized?
 2. Why is the training so jittery?
